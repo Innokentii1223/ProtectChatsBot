@@ -16,7 +16,7 @@ t = 0
 URL = ""  # Ссылка в чат
 password = "1234"  # Пароль вводимый в addrule addAssetAddrule
 mti = 0  # messange thread id туда бот отправляет все заявки и не только
-idMessange = -1002602985753  # id группы
+idMessange = 0  # id группы
 m = 0
 msg = None
 # Правила
